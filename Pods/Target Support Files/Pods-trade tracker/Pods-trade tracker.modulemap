@@ -1,0 +1,6 @@
+framework module Pods_trade_tracker {
+  umbrella header "Pods-trade tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
