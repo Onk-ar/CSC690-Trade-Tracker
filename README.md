@@ -6,11 +6,11 @@ An App to track your stock market profits.
   ## Tanbir Singh - 920843232
   
 # Features
- Search stocks using ticker symbol
- Track profits using Monthly moving average
- Multiple Screens
- Date picker
- Sliding Date Incrementer
+ Search stocks using ticker symbol. <br>
+ Track profits using Monthly moving average <br>
+ Multiple Screens <br>
+ Date picker <br>
+ Sliding Date Incrementer <br>
  
  # How to Run Project
  1. Clone this repo using git clone
